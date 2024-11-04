@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @joaki1991
+- 👋 Hi, I’m Joaquin Piqueras Delicado
 - 👀 I’m interested in software and web app development
 - 🌱 I’m currently learning DAW
 - 💞️ I’m looking to collaborate on any software project
 - 📫 How to reach me: joakanpde@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: @joaki1991
+- ⚡ Fun fact: last years, I've learned Java, Javascript, HTML, CSS and PHP 
 
 <!---
 joaki1991/joaki1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
