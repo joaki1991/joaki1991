@@ -5,7 +5,7 @@
 - 📫 How to reach me: joakanpde@gmail.com
 - 📞 tlf: +34 627812107
 - 😄 Pronouns: @joaki1991
-- 🌐 Web: www.joaquinportafolio.netlify.app
+- 🌐 Web: https://joaquinportafolio.netlify.app/
 - ⚡ Fun fact: last years, I've learned Java, Javascript, HTML, CSS and PHP 
 
 <!---
