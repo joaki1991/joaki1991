@@ -5,6 +5,7 @@
 - 📫 How to reach me: joakanpde@gmail.com
 - 📞 tlf: +34 627812107
 - 😄 Pronouns: @joaki1991
+- 🌐 Web: https://shimmering-pony-a311f5.netlify.app/javascript
 - ⚡ Fun fact: last years, I've learned Java, Javascript, HTML, CSS and PHP 
 
 <!---
