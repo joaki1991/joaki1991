@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning DAW
 - 💞️ I’m looking to collaborate on any software project
 - 📫 How to reach me: joakanpde@gmail.com
+- 📞 tlf: +34 627812107
 - 😄 Pronouns: @joaki1991
 - ⚡ Fun fact: last years, I've learned Java, Javascript, HTML, CSS and PHP 
 
